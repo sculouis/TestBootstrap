@@ -1,0 +1,52 @@
+[{
+        "empId": "A0001",
+        "empName": "張三",
+        "gender": "1",
+        "depId": "D0001",
+        "titleId": "1"
+    },
+    {
+        "empId": "A0002",
+        "empName": "李四",
+        "gender": "2",
+        "depId": "D0002",
+        "titleId": "2"
+    },
+    {
+        "depId":"A0001"
+        ,"depName":"財務部"
+        ,"kind":"dep"
+    },
+    {
+        "depId":"A0002"
+        ,"depName":"業務部"
+        ,"kind":"dep"
+    },
+    {
+        "depId":"A0002"
+        ,"depName":"研發部"
+        ,"kind":"dep"
+    },
+    {
+        "depId":"B0001"
+        ,"depName":"總經理"
+        ,"kind":"title"
+    },
+    {
+        "depId":"B0002"
+        ,"depName":"經理"
+        ,"kind":"title"
+    },
+    {
+        "depId":"B0003"
+        ,"depName":"科長"
+        ,"kind":"title"
+    },
+    {
+        "depId":"B0004"
+        ,"depName":"科員"
+        ,"kind":"title"
+    }
+
+
+]
